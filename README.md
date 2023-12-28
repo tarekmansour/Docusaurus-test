@@ -1,5 +1,5 @@
 # Docusaurus-test
-Testing Docusaurus from meta open source.
+Testing [Docusaurus](https://docusaurus.io/docs) from meta open source.
 
 Docusaurus allows you to build optimized websites quickly, allowing you to focus on your content.
 
